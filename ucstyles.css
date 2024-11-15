@@ -4,7 +4,7 @@
 }
 
 .bgimg {
-    background-image: url("https://github.com/jaisaravanaoff/pixwebsite/blob/main/pixucpage_bg.jpg");
+    background-image: url("../pixwebsite/pixucpage_bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
